@@ -1,0 +1,16 @@
+
+/* Import TailwindCSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Assuming you're using Tailwind CSS */
+html {
+    @apply bg-primary2-background h-full;
+  }
+  
+  body {
+    @apply min-h-screen;
+  }
+  
+
